@@ -34,8 +34,8 @@ def calculate_and_update_results(spreadsheet_id, sheet_name, start_row, end_row)
             worksheet.update_cell(i, 8, 0)  # Fill NAF with 0 for students reproved by absence
         elif 50 <= average < 70:
             result = "Exame Final"
-            # Calculate NAF (Nota para Aprovação Final)
-            naf = max(math.ceil((50 + average) / 2), 0)  # Adjusted formula
+            # Calculate NAF
+            naf = max(math.ceil(100 - average), 0) 
             worksheet.update_cell(i, 8, naf)  # Update NAF in column 8
         else:
             result = "Aprovado"
