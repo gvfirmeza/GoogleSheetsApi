@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "diesel-cat-413500",
+  "private_key_id": "193f55b18f898ce9b3b9422a274da619e6e394e7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDPy5FyFhNtEGx1\nBEV1YKOuzVXg7BI/0fX+jK6NpvlrF9DiZwrgM9rSie7sXluW+Kg64oGVoI/KADTr\nJU868jYlfet99NEFnrflWyGiZvFr8DWmkRgdXh1775ATJTaW8vsCUWMfo6XmA/fe\nvjLl1IfHSGCnMmTsM+TzHWojBE5+CnZm5Sq17gMWIirGrTG4igEbkj1Mx2YC6LC4\nppGVNT+fIxmLhV2t6QUJ3T7LZRUPLZpPvxI5mbA8R6CfT8cJyXgYgAnPhO9EsQwM\nBGo481UJpuxalSxKUL7oDrZ1n+a/rc1FfESdTR0QywhCEPjNcFbtzBnvZPfCGQ5I\nZKyZAiHtAgMBAAECggEAE1qKeW3E8WuOLnfvYDdYB3fof8J9EKSlnMfNmjPrFyZo\nti2Svb8WqnVeY3WGYlFWmeVu3FjQC6hpRV18O6lDkcpgnKKotTVLO3l5cH7WDY+Z\n76Gj9VhGtrxhVucoZnbLGjQqX1AGq53DAGQGqZFZ9B2xouD2tWk/8cTTld9Y0DRO\nRCAW9li2/nV6y0mCIc8Kfe/Bo+K+U4Ev7VoiFxfWzuXRW0Vt8WiBV1zQNE+9u6b2\n74DNAZ4+UgS72VgwAmBLCcYj+jkzIvSodIpiLNjxyNmxEq3OHRyKJCIdQvSYd/vs\nfxrmoIlpDR8O4icKPTPpt/hzNUIP2UWj4LEVbLRroQKBgQDvmmHm9lz+zJ0oI2DI\nmInMK6fK1hl+jtR5zfPzioAo486Z+64jByYPnVhoa9QK6MinKuQwnmNmWV53BdIB\nuQVAAUCtgkBSkqfqurKRFn7AFmgHpLFAOkxJ9JoGPqh4gUnODSvP8Er6YkOn1wuI\nkYEIg2icRA7490hkFWMnBp/q4wKBgQDeA/EvWOlek3s6TTm62in3VCQshe3lLaQB\n91xppk6CJoBwwOCSmxVhd1U2SMDu1KqhAaL/B8iTsHR95SYk1Jy8iJphUb+FtLp5\n2BQqspjgB+boN8hgXWkku+q7aOF6dz6RCwtvKdHBG5FGMmflfMRnwIaWQhkNakqT\nyh3IxKJI7wKBgD9xSGUIbL1G3oIHRBQ5V5tJH+e0YxHArgAGiYa98ItjLoxVONmr\nhedyiTs0+fNdievBjqRU/ArYtQuc7eto2zwEWOTYbUGv9WhQwQFrzGn+RNNpR0mz\nZgnbC4GFy8QEr88wa55miOPdav6hETu7E0h2yxc9ah2AFJnzk8p8lZFzAoGAQXdO\nHlUMc5vvgVCWTlfYehrwk8RmUubzbrT/JhQpIE20IAtv7SsX0ea7VMd9RK+nJNTz\nuFoWNh6ZKypv5fpfwWRSiZHudMHHHvitca26UI1j9GPGjUveHjvfSqXxnwgche6I\nz524QUYcv2NLqarxy1pFFXemJYOLPCskPzhkVjcCgYEA4umoT7qvFfjl/H1p10Ci\n8gRwQdZKAMlWDSMvn2lCYUkTngPBoKP0zVmCw4TUYAnfbhr3m/D2GbhYXxeZ3Mo6\ndKUpowBqobc3gxbpMi6tVKDcIGoffPLwfwcfawz5KzUJ/RpTIVnhNCOSFhkn1pEe\n+0QExL1naKio2TJ4IDt1s3o=\n-----END PRIVATE KEY-----\n",
+  "client_email": "engenharia-de-software-desafio@diesel-cat-413500.iam.gserviceaccount.com",
+  "client_id": "110667799860131245011",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/engenharia-de-software-desafio%40diesel-cat-413500.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
