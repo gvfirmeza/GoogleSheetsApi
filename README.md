@@ -17,12 +17,16 @@ Abra a planilha do Google Sheets para verificar como os dados estavam antes da A
 
 [Link da Planilha](https://docs.google.com/spreadsheets/d/1Kjre36osftjSRzaNFNxGWeJ8TtZnuvhf3ydli1fhvds)
 
-3. **Executar o Script**
+3. **Abra o Terminal**
+
+Execute o terminal de comandos do seu sistema operacional na pasta em que o arquivo está localizado.
+
+4. **Executar o Script**
 
 Execute o script Python. Isso calculará e atualizará os resultados dos alunos na planilha.
 
-`python main.py`
+`py main.py`
 
-4. **Verificar Resultados**
+5. **Verificar Resultados**
 
 Verifique a planilha do Google Sheets para ver os resultados atualizados dos alunos.
