@@ -1,3 +1,4 @@
+import math
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
@@ -34,7 +35,7 @@ def calculate_and_update_results(spreadsheet_id, sheet_name, start_row, end_row)
         elif 50 <= average < 70:
             result = "Exame Final"
             # Calculate NAF (Nota para Aprovação Final)
-            naf = ((50 + average) /2)  # Adjusted formula
+            naf = max(math.ceil((50 + average) / 2), 0)  # Adjusted formula
             worksheet.update_cell(i, 8, naf)  # Update NAF in column 8
         else:
             result = "Aprovado"
