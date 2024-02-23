@@ -25,7 +25,7 @@ Execute o terminal de comandos do seu sistema operacional na pasta em que o arqu
 
 Execute o script Python. Isso calculará e atualizará os resultados dos alunos na planilha.
 
-`py main.py`
+`python3 main.py`
 
 5. **Verificar Resultados**
 
